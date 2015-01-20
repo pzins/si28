@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lost Letters</string>
+    <string name="app_tx_name">Find Words</string>
+    <string name="app_si28_name">Change Words</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="take_pic">Capture!</string>
+    <string name="result_question">Résulat!</string>
+    <string name="ouvrir_camera">Ouvrir la camera</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_page_menu">Page_menu</string>
+    <string name="title_activity_apropos">apropos</string>
+    <string name="title_activity_creation">creation</string>
+    <string name="title_activity_ajout_question">Ajout_question</string>
+    <string name="title_activity_selection_histoire">Selection_histoire</string>
+    <string name="title_activity_jeu">Jeu</string>
+    <string name="title_activity_partie">Partie</string>
+    <string name="title_activity_main_change">Main_change</string>
+    <string name="title_activity_main_page">Main_page</string>
+    <string name="title_activity_choix_histoire">choix_histoire</string>
+    <string name="title_activity_choix_phrase">choix_phrase</string>
+    <string name="title_activity_fin">fin</string>
+    <string name="title_activity_change_tuto">change_tuto</string>
+    <string name="title_activity_lost_tuto">lost_tuto</string>
+    <string name="title_activity_my_activity4">MyActivity4</string>
+
+</resources>
